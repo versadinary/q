@@ -1,4 +1,4 @@
-## REFERENCE
+rgr_articles
 
 
 https://books-vuzi.narod.ru/olderfiles/1/VICH_MATH_MAXIMA.PDF
@@ -13,4 +13,4 @@ https://www.cs.umd.edu/users/oleary/a600/cgnotes.pdf
 
 https://people.eecs.berkeley.edu/~satishr/cs270/sp11/rough-notes/Linear-Equations.pdf
 
-https://www.phys.uconn.edu/~rozman/Courses/m3511_18s/downloads/steepest-descent.pdf [*]
+https://www.phys.uconn.edu/~rozman/Courses/m3511_18s/downloads/steepest-descent.pdf 
